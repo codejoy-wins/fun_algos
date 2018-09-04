@@ -13,6 +13,8 @@ console.log(mph(60,60)+" minutes");
 console.log(mph(60,3)+" minutes");
 
 console.log(mph(35,4.2)+" minutes");
+console.log(mph(100,500)+" minutes");
+
 
 
 
